@@ -2,6 +2,9 @@
 /* body{
 	background-image: url("");
 } */
+body{
+	background-image: url("/assets/images/white-waves.png");
+}
 div{
 	background-color: white;
 	margin: 10px;
@@ -55,14 +58,14 @@ div.header, div.instructions{
 }
 /* IDs */
 #blue{
-	color: #3092c7;
+	color: blue;
 }
 #green{
-	color: #00aa59;
+	color: green;
 }
 #red{
-	color: #ec4b5f;
+	color: red;
 }
 #yellow{
-	color: #ffc225;
+	color: yellow;
 }
